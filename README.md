@@ -1,5 +1,8 @@
-Install dependencies:
-pip install pytest fastapi python-dotenv sentence-transformers numpy pydantic httpx uvicorn
+# Internship Recommendation System
 
-Navigate to the backend directory and start the server:
-uvicorn api:app --reload
+## Descriptions
+Uses text embeddings and cosine similarity to find the best internships for a resume.
+
+## Setup
+1. Install dependencies: `pip install pytest fastapi python-dotenv sentence-transformers numpy pydantic httpx uvicorn`
+2. Navigate to the backend directory and start the server: `uvicorn api:app --reload`
