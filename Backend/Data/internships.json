@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Software Engineering Intern",
+    "company": "Tech Innovations Inc.",
+    "location": "San Francisco, CA",
+    "description": "As a Software Engineering Intern, you'll work on a variety of projects, from developing new features for our core product to optimizing existing systems. You'll be part of an agile development team, contributing to the full software development lifecycle. This role provides an excellent opportunity to gain hands-on experience with modern software engineering practices, including coding, testing, and debugging.",
+    "requirements": "Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related field. Proficiency in at least one general-purpose programming language (e.g., Python, Java, C++). Familiarity with data structures, algorithms, and object-oriented design principles. Strong problem-solving and analytical skills. Ability to work collaboratively in a team environment."
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Data Insights Corp.",
+    "location": "New York, NY",
+    "description": "You'll work closely with our data science team to analyze large datasets, build machine learning models, and create data visualizations. This internship is designed to give you practical experience in applying statistical and machine learning techniques to solve real-world business problems. You'll assist in data collection, cleaning, and interpretation to drive data-driven decision-making.",
+    "requirements": "Pursuing a degree in Data Science, Statistics, Computer Science, or a related quantitative field. Basic understanding of statistical concepts and data analysis methods. Experience with programming languages like Python or R. Knowledge of data manipulation and visualization libraries (e.g., Pandas, Matplotlib). Excellent communication skills and eagerness to learn."
+  },
+  {
+    "title": "Product Management Intern",
+    "company": "Innovate Solutions",
+    "location": "Seattle, WA",
+    "description": "The Product Management Intern will support the product team in various stages of the product lifecycle. You'll conduct market research, analyze user feedback, help with creating product documentation, and assist in prioritizing features. This role is a fantastic opportunity to learn about the intersection of business, technology, and user experience.",
+    "requirements": "Currently enrolled in a Bachelor's or Master's degree in Business, Computer Science, or a related field. Strong interest in product management and product development. Excellent research, analytical, and communication skills. Ability to work in a fast-paced, collaborative environment. Familiarity with agile methodologies is a plus."
+  },
+  {
+    "title": "UX/UI Design Intern",
+    "company": "Creative Minds Studio",
+    "location": "Austin, TX",
+    "description": "As a UX/UI Design Intern, you will assist in creating intuitive and visually appealing user interfaces. You'll participate in user research, create wireframes and prototypes, and contribute to usability testing. This role offers a chance to apply user-centered design principles and help shape the user experience of our digital products.",
+    "requirements": "Currently pursuing a degree in Graphic Design, HCI, or a related field. Knowledge of UX/UI design principles and methodologies. Proficiency with design and prototyping tools (e.g., Figma, Sketch, Adobe XD). A strong portfolio showcasing your design projects. Attention to detail and a passion for creating great user experiences."
+  },
+  {
+    "title": "Machine Learning Engineer Intern",
+    "company": "AI Dynamics",
+    "location": "Boston, MA",
+    "description": "You'll work with our engineering team to develop, test, and optimize machine learning models. Your tasks will include data preprocessing, feature engineering, and model evaluation. This role is perfect for a student eager to gain practical experience with AI frameworks and contribute to the deployment of AI-powered solutions.",
+    "requirements": "Currently enrolled in a Master's or PhD program in Computer Science, Machine Learning, or a related field. Experience with machine learning frameworks such as TensorFlow or PyTorch. Proficiency in Python and relevant libraries (e.g., scikit-learn, NumPy, Pandas). Strong understanding of machine learning algorithms and deep learning concepts. Solid foundation in mathematics, including linear algebra and statistics."
+  },
+  {
+    "title": "Cybersecurity Intern",
+    "company": "SecureSphere",
+    "location": "Washington, D.C.",
+    "description": "The Cybersecurity Intern will assist our security team in monitoring and analyzing threats, conducting vulnerability assessments, and responding to incidents. You'll gain hands-on experience with security tools and help implement security solutions to protect our systems and data.",
+    "requirements": "Currently pursuing a degree in Cybersecurity, Information Technology, or a related field. Basic understanding of network protocols, operating systems, and security concepts. Familiarity with common security tools (e.g., SIEM, vulnerability scanners). Knowledge of at least one scripting language (e.g., Python, Bash). Strong analytical and problem-solving skills."
+  },
+  {
+    "title": "Cloud Computing Intern",
+    "company": "CloudScape Technologies",
+    "location": "Redmond, WA",
+    "description": "As a Cloud Computing Intern, you will work on projects involving cloud infrastructure, virtualization, and automation. You will assist in deploying and managing applications on platforms like AWS, Azure, or Google Cloud, and contribute to improving system reliability and scalability.",
+    "requirements": "Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related technical field. Basic knowledge of cloud computing concepts and services (e.g., EC2, S3, Azure VMs). Familiarity with Linux operating systems and command-line tools. Experience with scripting languages like Python or Bash. Eagerness to learn and work with cloud technologies."
+  },
+  {
+    "title": "DevOps Intern",
+    "company": "Global Systems",
+    "location": "San Jose, CA",
+    "description": "The DevOps Intern will help automate our software development and IT operations processes. You'll assist in managing CI/CD pipelines, container orchestration, and infrastructure as code. This internship is an excellent opportunity to bridge the gap between development and operations and gain experience with cutting-edge tools.",
+    "requirements": "Currently pursuing a degree in Computer Science or a related field. Familiarity with version control systems like Git. Basic understanding of CI/CD concepts and tools (e.g., Jenkins, GitHub Actions). Knowledge of containerization technologies (e.g., Docker, Kubernetes). Experience with scripting languages and a desire to automate workflows."
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "Metrics Inc.",
+    "location": "Chicago, IL",
+    "description": "You'll be part of a team that uses data to uncover business insights. Your responsibilities will include data cleaning and preparation, exploratory data analysis, and the creation of dashboards and reports. This role will help you develop your skills in data visualization and communicating findings to stakeholders.",
+    "requirements": "Currently enrolled in a Bachelor's or Master's degree in a quantitative field. Proficiency with spreadsheet software (e.g., Microsoft Excel, Google Sheets). Basic knowledge of SQL for data querying. Experience with data visualization tools (e.g., Tableau, Power BI) is a plus. Strong analytical thinking and attention to detail."
+  },
+  {
+    "title": "AI Research Intern",
+    "company": "Quantum AI Labs",
+    "location": "Palo Alto, CA",
+    "description": "Join our research team to explore and develop novel AI algorithms and models. You'll work on projects that push the boundaries of machine learning, deep learning, and natural language processing. This is a highly technical role for students passionate about contributing to pioneering research.",
+    "requirements": "Currently enrolled in a PhD or Master's program in Computer Science, Applied Mathematics, or a related field. Demonstrated research experience through publications or projects. Strong programming skills in Python and experience with AI/ML frameworks (e.g., PyTorch, JAX). Deep understanding of machine learning theory and algorithms. Ability to work independently and drive research projects forward."
+  }
+]
