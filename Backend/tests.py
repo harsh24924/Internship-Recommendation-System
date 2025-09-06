@@ -1,5 +1,5 @@
 import pytest
-from api import app
+from main import app
 from schemas import Internship
 from fastapi.testclient import TestClient
 
