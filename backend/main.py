@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from schemas import Resume, Internship
 from fastapi.middleware.cors import CORSMiddleware
 from sentence_transformers import SentenceTransformer
-    
+
 load_dotenv()
 
 app = FastAPI()
@@ -24,7 +24,7 @@ app.add_middleware(
     allow_headers = ["*"],
     allow_origins = origins,
     allow_credentials = True
-    
+
 )
 
 recommendation_count = int(os.getenv("RECOMMENDATION_COUNT", "5"))
