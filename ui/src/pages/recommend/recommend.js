@@ -1,14 +1,8 @@
-// src/pages/recommend/recommend.js
-
 import React, { useState } from "react";
-import axios from "axios"; // We'll use axios to make the API request
-import "./recommend.css"; // Import our stylesheet
+import axios from "axios";
+import "./recommend.css";
 
 const RecommendPage = () => {
-  // 1. STATE MANAGEMENT
-  // We use 'useState' to store data that can change over time.
-
-  // Store the form data from the user's input
   const [resumeData, setResumeData] = useState({
     summary:
       "Experienced software developer with a background in machine learning and cloud computing.",
@@ -19,19 +13,10 @@ const RecommendPage = () => {
     certifications: "AWS Certified Developer",
   });
 
-  // Store the list of recommended internships from the API
   const [recommendations, setRecommendations] = useState([]);
-
-  // Store the loading state (to show a spinner or message)
   const [isLoading, setIsLoading] = useState(false);
-
-  // Store any potential errors from the API call
   const [error, setError] = useState(null);
 
-  // 2. EVENT HANDLERS
-  // These functions handle user interactions.
-
-  // This function updates the 'resumeData' state whenever a user types in a form field.
   const handleInputChange = (e) => {
     const { name, value } = e.target;
     setResumeData((prevData) => ({
@@ -40,45 +25,34 @@ const RecommendPage = () => {
     }));
   };
 
-  // This function is called when the form is submitted.
   const handleSubmit = async (e) => {
-    e.preventDefault(); // Prevents the default browser action of refreshing the page on form submit.
+    e.preventDefault();
 
-    setIsLoading(true); // Set loading to true to show a loading message
-    setError(null); // Clear any previous errors
-    setRecommendations([]); // Clear previous recommendations
+    setIsLoading(true);
+    setError(null);
+    setRecommendations([]);
 
     try {
-      // THE API CALL!
-      // We use axios.post to send a POST request.
-      // The first argument is the API endpoint URL.
-      // The second argument is the data we want to send in the request body (our resume data).
       const response = await axios.post(
         "http://127.0.0.1:8000/recommend/",
         resumeData,
       );
 
-      // If the call is successful, we update our state with the data from the API.
       setRecommendations(response.data);
     } catch (err) {
-      // If there's an error...
       console.error("API Error:", err);
       setError(
         "Failed to fetch recommendations. Please make sure the API server is running and reachable.",
       );
     } finally {
-      // This runs whether the request was successful or not.
-      setIsLoading(false); // Set loading to false to hide the loading message
+      setIsLoading(false);
     }
   };
 
-  // 3. JSX (The UI)
-  // This is what gets rendered to the screen.
   return (
     <div className="recommend-container">
       <h1>Internship Recommender</h1>
       <div className="main-content">
-        {/* Left Side: The Form */}
         <form onSubmit={handleSubmit} className="resume-form">
           <h2>Enter Your Resume Details</h2>
 
@@ -144,7 +118,6 @@ const RecommendPage = () => {
           </button>
         </form>
 
-        {/* Right Side: The Results */}
         <div className="results-section">
           <h2>Recommended Internships</h2>
           {isLoading && (
@@ -154,7 +127,6 @@ const RecommendPage = () => {
           )}
           {error && <div className="error-message">{error}</div>}
 
-          {/* We only show recommendations if loading is false and there are recommendations to show */}
           {!isLoading &&
             recommendations.length > 0 &&
             recommendations.map((internship, index) => (
@@ -169,7 +141,6 @@ const RecommendPage = () => {
                 <p>{internship.requirements}</p>
               </div>
             ))}
-          {/* Show a placeholder if there are no results yet */}
           {!isLoading && !error && recommendations.length === 0 && (
             <div className="loading-message">
               Your recommendations will appear here.
