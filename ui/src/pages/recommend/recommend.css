@@ -10,7 +10,6 @@
     --error-color: #f44336;
 }
 
-/* Basic body and font styles */
 body {
     background-color: var(--base-color);
     color: var(--text-color);
@@ -34,16 +33,14 @@ body {
     margin-bottom: 2rem;
 }
 
-/* The main layout: form on the left, results on the right */
 .main-content {
     display: flex;
     gap: 2rem;
     align-items: flex-start;
 }
 
-/* Styling for the form section */
 .resume-form {
-    flex: 1; /* Takes up 1 part of the available space */
+    flex: 1;
     background-color: var(--card-bg-color);
     padding: 2rem;
     border-radius: 8px;
@@ -89,7 +86,6 @@ body {
     resize: vertical;
 }
 
-/* Submit button styling */
 .submit-btn {
     background-color: var(--accent-color);
     color: white;
@@ -116,9 +112,8 @@ body {
     transform: none;
 }
 
-/* Styling for the results section */
 .results-section {
-    flex: 1.5; /* Takes up 1.5 parts of space, making it wider */
+    flex: 1.5;
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
@@ -138,7 +133,6 @@ body {
     border: 1px solid var(--error-color);
 }
 
-/* Individual internship card styling */
 .internship-card {
     background-color: var(--card-bg-color);
     padding: 1.5rem;

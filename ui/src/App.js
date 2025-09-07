@@ -1,7 +1,5 @@
-// src/App.js
-
 import React from "react";
-import RecommendPage from "./pages/recommend/recommend.js"; // Import our new page component
+import RecommendPage from "./pages/recommend/recommend.js";
 
 function App() {
   return (
