@@ -14,7 +14,9 @@ const RecommendPage = () => {
   });
 
   const [recommendations, setRecommendations] = useState([]);
+
   const [isLoading, setIsLoading] = useState(false);
+
   const [error, setError] = useState(null);
 
   const handleInputChange = (e) => {
