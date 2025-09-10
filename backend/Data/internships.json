@@ -1,72 +1,492 @@
 [
   {
-    "title": "Software Engineering Intern",
-    "company": "Tech Innovations Inc.",
+    "title": "Frontend Development Intern",
+    "company": "Innovate Solutions",
     "location": "San Francisco, CA",
-    "description": "As a Software Engineering Intern, you'll work on a variety of projects, from developing new features for our core product to optimizing existing systems. You'll be part of an agile development team, contributing to the full software development lifecycle. This role provides an excellent opportunity to gain hands-on experience with modern software engineering practices, including coding, testing, and debugging.",
-    "requirements": "Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related field. Proficiency in at least one general-purpose programming language (e.g., Python, Java, C++). Familiarity with data structures, algorithms, and object-oriented design principles. Strong problem-solving and analytical skills. Ability to work collaboratively in a team environment."
+    "description": "Join our team as a Frontend Development Intern and work on cutting-edge web applications. You'll gain hands-on experience with modern JavaScript frameworks, contributing to user interface development and improving user experience.",
+    "requirements": "Proficiency in HTML, CSS, JavaScript. Familiarity with React or Vue.js is a plus. Strong problem-solving skills and a passion for UI/UX."
   },
   {
-    "title": "Data Science Intern",
-    "company": "Data Insights Corp.",
+    "title": "Backend Engineering Intern",
+    "company": "DataStream Inc.",
+    "location": "Seattle, WA",
+    "description": "We are looking for a Backend Engineering Intern to assist in developing and maintaining server-side logic for our web services. You will work with our senior engineers on API design, database interactions, and system architecture.",
+    "requirements": "Experience with Python, Node.js, or Java. Understanding of RESTful APIs and database concepts (SQL/NoSQL). Basic knowledge of cloud platforms (AWS, Azure, GCP) preferred."
+  },
+  {
+    "title": "Full Stack Web Developer Intern",
+    "company": "Synergy Digital",
+    "location": "Austin, TX",
+    "description": "As a Full Stack Web Developer Intern, you will be involved in both frontend and backend development of our core products. This role offers a great opportunity to work across the entire technology stack and contribute to all phases of development.",
+    "requirements": "Solid understanding of web fundamentals (HTML, CSS, JS). Experience with a full-stack framework (e.g., MERN, MEAN, Django, Ruby on Rails). Ability to work independently and collaboratively."
+  },
+  {
+    "title": "Web UI/UX Design Intern",
+    "company": "CreativeFlow Labs",
     "location": "New York, NY",
-    "description": "You'll work closely with our data science team to analyze large datasets, build machine learning models, and create data visualizations. This internship is designed to give you practical experience in applying statistical and machine learning techniques to solve real-world business problems. You'll assist in data collection, cleaning, and interpretation to drive data-driven decision-making.",
-    "requirements": "Pursuing a degree in Data Science, Statistics, Computer Science, or a related quantitative field. Basic understanding of statistical concepts and data analysis methods. Experience with programming languages like Python or R. Knowledge of data manipulation and visualization libraries (e.g., Pandas, Matplotlib). Excellent communication skills and eagerness to learn."
+    "description": "Our UI/UX Design Intern will collaborate with product and engineering teams to design intuitive and engaging web interfaces. You will assist in user research, wireframing, prototyping, and creating visual designs.",
+    "requirements": "Portfolio demonstrating design skills. Proficiency in design tools like Figma, Sketch, or Adobe XD. Understanding of user-centered design principles and responsive web design."
+  },
+  {
+    "title": "DevOps Intern for Web Services",
+    "company": "CloudForge Solutions",
+    "location": "Remote",
+    "description": "We're seeking a DevOps Intern to help automate our deployment pipelines and manage cloud infrastructure for our web applications. You'll learn about CI/CD, containerization, and infrastructure as code.",
+    "requirements": "Basic understanding of Linux, scripting (Bash, Python), and cloud concepts. Familiarity with Git. Knowledge of Docker or Kubernetes is a plus."
+  },
+  {
+    "title": "Quality Assurance (QA) Intern - Web",
+    "company": "Apex Technologies",
+    "location": "Boston, MA",
+    "description": "The QA Intern will work closely with development teams to ensure the quality and reliability of our web products. Responsibilities include test case creation, execution, bug reporting, and contributing to automation efforts.",
+    "requirements": "Strong attention to detail. Basic understanding of software testing methodologies. Familiarity with browser developer tools. Experience with automated testing frameworks is a plus."
+  },
+  {
+    "title": "WordPress Developer Intern",
+    "company": "Evolve Web Design",
+    "location": "Chicago, IL",
+    "description": "Contribute to the development and customization of WordPress websites for our clients. This role involves theme and plugin development, content management, and ensuring site performance.",
+    "requirements": "Experience with WordPress platform. Proficiency in PHP, HTML, CSS, JavaScript. Understanding of responsive design and SEO best practices."
+  },
+  {
+    "title": "E-commerce Web Development Intern",
+    "company": "Global Shopper",
+    "location": "Los Angeles, CA",
+    "description": "Join our e-commerce team as an intern and help build and optimize online store functionalities. You'll work with popular e-commerce platforms and integrate various payment gateways and APIs.",
+    "requirements": "Knowledge of e-commerce platforms (e.g., Shopify, Magento, WooCommerce). Experience with frontend and/or backend web development. Understanding of user flows in online shopping."
+  },
+  {
+    "title": "Mobile Web Development Intern",
+    "company": "Pocket Innovations",
+    "location": "Atlanta, GA",
+    "description": "We are seeking a Mobile Web Development Intern to help create and optimize responsive web applications for mobile devices. You will focus on performance, usability, and cross-browser compatibility.",
+    "requirements": "Strong HTML, CSS, JavaScript skills. Experience with responsive design frameworks (e.g., Bootstrap, Tailwind CSS). Understanding of mobile-first development principles."
+  },
+  {
+    "title": "API Development Intern",
+    "company": "Connective Services",
+    "location": "Denver, CO",
+    "description": "Our API Development Intern will assist in designing, developing, and documenting RESTful APIs that power our various applications. This is an excellent opportunity to learn about microservices architecture and API best practices.",
+    "requirements": "Experience with a server-side language (e.g., Python, Node.js, Go). Understanding of HTTP protocols and JSON. Familiarity with API testing tools like Postman is a bonus."
+  },
+  {
+    "title": "Machine Learning Research Intern",
+    "company": "Tech Innovations Inc.",
+    "location": "San Francisco, CA",
+    "description": "Join our cutting-edge research team to develop novel machine learning algorithms for natural language processing and computer vision applications. You will work on real-world datasets and contribute to publications.",
+    "requirements": "Currently pursuing a Ph.D. or Master's in Computer Science, Electrical Engineering, or a related field. Strong programming skills in Python and experience with ML frameworks like TensorFlow or PyTorch. Research experience in NLP or CV is a plus."
+  },
+  {
+    "title": "AI/ML Engineering Intern",
+    "company": "Global Data Solutions",
+    "location": "Seattle, WA",
+    "description": "As an AI/ML Engineering Intern, you will assist in building and deploying scalable machine learning models. This involves data preprocessing, model training, evaluation, and integration into production systems.",
+    "requirements": "Enrollment in a Bachelor's or Master's program in Computer Science, Data Science, or a related technical discipline. Proficiency in Python and experience with cloud platforms (AWS, Azure, GCP) is preferred. Understanding of MLOps principles."
+  },
+  {
+    "title": "Deep Learning Intern (Computer Vision)",
+    "company": "Visual Intelligence Co.",
+    "location": "New York, NY",
+    "description": "Contribute to the development of deep learning models for advanced computer vision tasks such as object detection, segmentation, and facial recognition. You will work with large image datasets and state-of-the-art models.",
+    "requirements": "Pursuing a degree in Computer Science, AI, or a related field. Solid understanding of deep learning concepts and experience with PyTorch or TensorFlow. Projects or coursework in computer vision are essential."
+  },
+  {
+    "title": "Machine Learning Intern (NLP)",
+    "company": "Linguistic Insights LLC",
+    "location": "Boston, MA",
+    "description": "Join our NLP team to develop and fine-tune language models for various applications, including text summarization, sentiment analysis, and machine translation. You will experiment with different architectures and techniques.",
+    "requirements": "Currently enrolled in a Bachelor's or Master's program in Computer Science, Linguistics, or a related quantitative field. Strong Python skills and experience with NLP libraries (NLTK, spaCy, Hugging Face Transformers). Knowledge of transformer models."
+  },
+  {
+    "title": "Data Science & Machine Learning Intern",
+    "company": "FinTech Innovations",
+    "location": "Chicago, IL",
+    "description": "Work with our data science team to analyze financial datasets, build predictive models, and identify key insights. You will be involved in the entire ML lifecycle from data exploration to model deployment.",
+    "requirements": "Pursuing a Master's or Ph.D. in Data Science, Statistics, Computer Science, or a related quantitative field. Strong skills in Python (Pandas, Scikit-learn) and SQL. Experience with time series analysis is a plus."
+  },
+  {
+    "title": "ML Platform Engineering Intern",
+    "company": "Scalable Systems Inc.",
+    "location": "Austin, TX",
+    "description": "Assist in building and optimizing our internal machine learning platform and infrastructure. This includes improving data pipelines, model serving, and monitoring tools to support various ML teams.",
+    "requirements": "Enrollment in a Bachelor's or Master's program in Computer Science or a related engineering discipline. Strong programming skills in Python and familiarity with Docker, Kubernetes, and cloud services. Understanding of distributed systems."
+  },
+  {
+    "title": "Applied Machine Learning Intern",
+    "company": "Healthcare AI Solutions",
+    "location": "San Diego, CA",
+    "description": "Apply machine learning techniques to solve complex problems in healthcare, such as disease prediction, medical image analysis, and personalized treatment recommendations. Collaborate with clinical experts.",
+    "requirements": "Currently enrolled in a Master's or Ph.D. program in Biomedical Engineering, Computer Science, or a related field. Experience with Python, ML libraries, and a strong interest in healthcare applications. Knowledge of privacy regulations (HIPAA) is a plus."
+  },
+  {
+    "title": "Robotics & Machine Learning Intern",
+    "company": "Autonomous Systems Corp.",
+    "location": "Pittsburgh, PA",
+    "description": "Work on developing and integrating machine learning algorithms for autonomous robots, focusing on perception, navigation, and decision-making. You will gain hands-on experience with robotic platforms.",
+    "requirements": "Pursuing a Bachelor's or Master's degree in Robotics, Computer Science, or Electrical Engineering. Proficiency in Python and C++. Experience with ROS (Robot Operating System) and simulation environments (Gazebo) is highly valued. Understanding of computer vision and control systems."
+  },
+  {
+    "title": "ML Research Intern (Reinforcement Learning)",
+    "company": "Innovative AI Labs",
+    "location": "Mountain View, CA",
+    "description": "Join our research team to explore and implement novel reinforcement learning algorithms. You will work on simulations and potentially real-world control problems, contributing to fundamental and applied research.",
+    "requirements": "Currently pursuing a Ph.D. or Master's in Computer Science, AI, or a related field. Strong theoretical understanding of reinforcement learning and experience with relevant frameworks (e.g., Stable Baselines, Ray RLlib). Excellent mathematical and programming skills."
+  },
+  {
+    "title": "Predictive Analytics Intern",
+    "company": "E-commerce Growth",
+    "location": "Remote",
+    "description": "Assist in building and deploying predictive models to optimize customer experience and business operations. This includes churn prediction, recommendation systems, and demand forecasting for our e-commerce platform.",
+    "requirements": "Enrollment in a Bachelor's or Master's program in Data Science, Business Analytics, or Computer Science. Proficiency in Python or R, and experience with SQL. Familiarity with A/B testing and statistical modeling is a plus."
+  },
+  {
+    "title": "iOS Development Intern",
+    "company": "Tech Innovations Inc.",
+    "location": "San Francisco, CA",
+    "description": "Join our dynamic team to develop and maintain cutting-edge iOS applications. You'll work on new features, bug fixes, and performance enhancements for our flagship mobile products. This role offers hands-on experience with Swift, SwiftUI, and various Apple frameworks.",
+    "requirements": "Proficiency in Swift, understanding of iOS UI/UX principles, experience with Xcode, knowledge of version control (Git). Strong problem-solving skills and a passion for mobile technology are a must."
+  },
+  {
+    "title": "Android Developer Intern",
+    "company": "Global Solutions Ltd.",
+    "location": "Seattle, WA",
+    "description": "As an Android Developer Intern, you will assist in the design, development, and testing of our Android applications. You'll collaborate with senior developers to implement new features and ensure the best possible performance, quality, and responsiveness of applications.",
+    "requirements": "Familiarity with Kotlin or Java, understanding of Android SDK, experience with Android Studio, knowledge of RESTful APIs, and UI/UX design principles. Excellent communication and teamwork skills."
+  },
+  {
+    "title": "Flutter Mobile App Intern",
+    "company": "NextGen Apps",
+    "location": "Austin, TX",
+    "description": "We are seeking a motivated Flutter Intern to help build cross-platform mobile applications. You will be involved in the full development lifecycle, from concept to deployment, working with a team that values innovation and clean code.",
+    "requirements": "Basic knowledge of Dart and Flutter framework, understanding of state management, experience with consuming APIs. Eagerness to learn and contribute to open-source projects is a plus."
+  },
+  {
+    "title": "React Native Intern",
+    "company": "Creative Minds Studio",
+    "location": "New York, NY",
+    "description": "Work with our team to develop and maintain high-performance, cross-platform mobile applications using React Native. You'll gain experience in modern JavaScript development and contribute to user-facing features.",
+    "requirements": "Familiarity with JavaScript/TypeScript, React, and React Native. Understanding of mobile UI/UX and experience with Git. Strong desire to learn and adapt to new technologies."
+  },
+  {
+    "title": "Mobile UI/UX Design Intern",
+    "company": "Innovate Digital",
+    "location": "Boston, MA",
+    "description": "This internship focuses on the user interface and user experience design for our mobile applications. You will assist in creating wireframes, prototypes, and visual designs that are intuitive and engaging across various platforms.",
+    "requirements": "Proficiency with design tools like Figma, Sketch, or Adobe XD. Strong portfolio demonstrating understanding of mobile UI/UX principles. Basic understanding of mobile development processes is a plus."
+  },
+  {
+    "title": "Backend for Mobile Intern",
+    "company": "DataStream Solutions",
+    "location": "Chicago, IL",
+    "description": "Support our mobile development efforts by building and maintaining robust backend services. You'll work on APIs, databases, and server-side logic that power our mobile applications, gaining experience with cloud platforms and scalable architectures.",
+    "requirements": "Knowledge of a backend language (e.g., Python, Node.js, Go, Java), experience with databases (SQL/NoSQL), understanding of RESTful API design. Familiarity with cloud services like AWS or Azure is a bonus."
+  },
+  {
+    "title": "QA Mobile Testing Intern",
+    "company": "Quality Assured Apps",
+    "location": "Denver, CO",
+    "description": "Join our QA team to ensure the quality and reliability of our mobile applications. You will be responsible for executing test cases, identifying bugs, and reporting issues across different mobile platforms and devices.",
+    "requirements": "Attention to detail, strong analytical skills, experience with mobile devices and operating systems. Familiarity with bug tracking systems and basic understanding of software development lifecycle."
+  },
+  {
+    "title": "Unity Mobile Game Development Intern",
+    "company": "Pixel Play Games",
+    "location": "Los Angeles, CA",
+    "description": "Contribute to the development of exciting mobile games using the Unity engine. You'll work on game mechanics, UI implementation, and performance optimization for both iOS and Android platforms.",
+    "requirements": "Basic knowledge of C# and Unity. Understanding of game development principles and mobile platform limitations. A passion for gaming and creativity is essential."
+  },
+  {
+    "title": "Wearable Technology Intern",
+    "company": "Future Wearables Inc.",
+    "location": "Palo Alto, CA",
+    "description": "Explore the exciting field of wearable technology development. You will work on integrating mobile applications with smartwatches and other wearable devices, focusing on connectivity, data synchronization, and UI optimization for small screens.",
+    "requirements": "Experience with either iOS or Android development. Interest in IoT and wearable devices. Knowledge of Bluetooth Low Energy (BLE) or similar communication protocols is a plus."
+  },
+  {
+    "title": "Cross-Platform Mobile Developer Intern",
+    "company": "Synergy Tech Solutions",
+    "location": "Dallas, TX",
+    "description": "Work on versatile mobile applications using frameworks like Xamarin or NativeScript. You'll gain experience in writing code that runs on multiple platforms, focusing on code reusability and efficient development workflows.",
+    "requirements": "Familiarity with C# (for Xamarin) or JavaScript/TypeScript (for NativeScript). Understanding of mobile UI patterns and API integration. Strong willingness to learn new cross-platform tools."
+  },
+  {
+    "title": "UX Design Intern",
+    "company": "TechInnovate Solutions",
+    "location": "San Francisco, CA",
+    "description": "Join our dynamic team to assist in user research, wireframing, and prototyping for our next-generation web and mobile applications. You'll work closely with senior designers and product managers to bring innovative ideas to life.",
+    "requirements": "Currently pursuing a degree in UI/UX Design, HCI, or a related field. Proficiency in Figma, Sketch, or Adobe XD. Strong communication and collaboration skills. A portfolio demonstrating design thinking is a plus."
+  },
+  {
+    "title": "UI Developer Intern",
+    "company": "CreativeFlow Agency",
+    "location": "New York, NY",
+    "description": "As a UI Developer Intern, you will help translate design mockups into functional user interfaces using HTML, CSS, and JavaScript. This role offers an opportunity to learn best practices in front-end development and work on real client projects.",
+    "requirements": "Familiarity with HTML5, CSS3, and JavaScript. Experience with responsive design. Basic understanding of React, Vue, or Angular is a bonus. Strong problem-solving skills."
+  },
+  {
+    "title": "Product Design Intern (UX/UI)",
+    "company": "GlobalConnect Inc.",
+    "location": "Seattle, WA",
+    "description": "Gain hands-on experience in the full product design lifecycle, from user discovery to final UI implementation. You will contribute to features that impact millions of users globally, focusing on usability and aesthetic appeal.",
+    "requirements": "Enrollment in a Bachelor's or Master's program in Design, Computer Science, or a related field. Experience with design tools like Adobe Creative Suite, Figma, or Sketch. Understanding of user-centered design principles."
+  },
+  {
+    "title": "User Research Intern",
+    "company": "Data Insights Corp.",
+    "location": "Boston, MA",
+    "description": "Support our UX research team by conducting user interviews, usability testing, and data analysis. You'll help uncover user needs and behaviors to inform design decisions for our enterprise software solutions.",
+    "requirements": "Pursuing a degree in Psychology, HCI, Cognitive Science, or a related field. Experience with qualitative and quantitative research methods. Excellent analytical and presentation skills."
+  },
+  {
+    "title": "Interaction Design Intern",
+    "company": "FutureTech Labs",
+    "location": "Austin, TX",
+    "description": "Focus on crafting intuitive and engaging interactive experiences for our VR/AR platforms. You will design user flows, create interactive prototypes, and collaborate with engineers and 3D artists.",
+    "requirements": "Background in Interaction Design, Digital Media, or a related discipline. Proficiency in prototyping tools (e.g., Axure, ProtoPie, Figma interactive components). Interest in emerging technologies."
+  },
+  {
+    "title": "Visual Designer Intern (UI focus)",
+    "company": "PixelPerfect Studios",
+    "location": "Los Angeles, CA",
+    "description": "Contribute to the visual language of our products, ensuring consistency and brand alignment across all touchpoints. You'll design high-fidelity UI mockups, icons, and graphic assets.",
+    "requirements": "Strong portfolio showcasing visual design skills. Proficiency in Adobe Photoshop, Illustrator, and Figma. Understanding of typography, color theory, and layout principles. Currently enrolled in a design program."
+  },
+  {
+    "title": "UX Content Strategist Intern",
+    "company": "WordWise Solutions",
+    "location": "Chicago, IL",
+    "description": "Work with our UX and product teams to craft clear, concise, and helpful copy for user interfaces. You'll help define content standards and ensure a consistent voice across our digital products.",
+    "requirements": "Studying English, Communications, Journalism, HCI, or a related field. Strong writing and editing skills. Ability to understand complex information and explain it simply. Familiarity with UX principles is a plus."
+  },
+  {
+    "title": "Accessibility Design Intern",
+    "company": "Inclusive Apps",
+    "location": "Remote",
+    "description": "Help us make our applications accessible to everyone. You'll audit existing interfaces, research accessibility guidelines (WCAG), and propose design solutions to improve inclusivity.",
+    "requirements": "Interest in accessibility standards and inclusive design. Basic understanding of HTML/CSS. Strong attention to detail. Currently enrolled in a design or related program."
+  },
+  {
+    "title": "Mobile UI/UX Design Intern",
+    "company": "OnTheGo Mobile",
+    "location": "Denver, CO",
+    "description": "Design user interfaces and experiences specifically for iOS and Android mobile applications. You will be involved in sketching, wireframing, and creating high-fidelity mockups for new features.",
+    "requirements": "Experience designing for mobile platforms (iOS and/or Android). Proficiency in mobile design tools (e.g., Figma, Sketch). Understanding of mobile design patterns and guidelines. Portfolio required."
+  },
+  {
+    "title": "Enterprise UX Intern",
+    "company": "BusinessWorks Software",
+    "location": "Dallas, TX",
+    "description": "Focus on improving the usability of complex enterprise software. You will participate in stakeholder interviews, workflow analysis, and design solutions for internal business tools.",
+    "requirements": "Pursuing a degree in HCI, Information Systems, or a related field. Strong analytical skills and an ability to understand complex systems. Experience with enterprise software is a plus."
+  },
+  {
+    "title": "Cybersecurity Analyst Intern",
+    "company": "SecureNet Solutions",
+    "location": "Remote",
+    "description": "Gain hands-on experience in security operations, threat intelligence, and incident response. Assist in monitoring security systems, analyzing alerts, and developing security policies.",
+    "requirements": "Basic understanding of network protocols, operating systems (Linux, Windows), and cybersecurity principles. Familiarity with SIEM tools a plus. Currently pursuing a degree in Cybersecurity, Computer Science, or a related field."
+  },
+  {
+    "title": "Penetration Tester Intern",
+    "company": "Guardian Cyber Group",
+    "location": "New York, NY",
+    "description": "Work alongside experienced penetration testers to identify vulnerabilities in web applications, networks, and systems. Participate in security assessments, reporting, and remediation efforts.",
+    "requirements": "Knowledge of common penetration testing tools (e.g., Nmap, Metasploit, Burp Suite), scripting skills (Python, Bash), and understanding of OWASP Top 10. Enrollment in a relevant technical degree program."
+  },
+  {
+    "title": "Security Software Development Intern",
+    "company": "InnovateSec",
+    "location": "Seattle, WA",
+    "description": "Contribute to the development of secure software solutions and tools. Assist in implementing security features, conducting code reviews, and automating security processes.",
+    "requirements": "Proficiency in at least one programming language (e.g., Python, Java, C++), understanding of secure coding practices, and familiarity with SDLC. Pursuing a degree in Computer Science or Software Engineering."
+  },
+  {
+    "title": "Incident Response Intern",
+    "company": "ThreatGuard Inc.",
+    "location": "Dallas, TX",
+    "description": "Support the incident response team in investigating security breaches, analyzing malware, and documenting incidents. Learn about forensic analysis techniques and incident containment strategies.",
+    "requirements": "Familiarity with incident response methodologies, understanding of forensic tools, and strong analytical skills. Enrollment in a cybersecurity or digital forensics program."
+  },
+  {
+    "title": "GRC (Governance, Risk, and Compliance) Intern",
+    "company": "ComplianceSec Advisors",
+    "location": "Washington, D.C.",
+    "description": "Assist in developing and implementing cybersecurity policies, procedures, and controls. Learn about regulatory compliance (e.g., GDPR, HIPAA, ISO 27001) and risk management frameworks.",
+    "requirements": "Basic understanding of cybersecurity frameworks, excellent research and writing skills, and attention to detail. Pursuing a degree in Cybersecurity, Information Systems, or Business Administration with a focus on GRC."
+  },
+  {
+    "title": "Cloud Security Intern",
+    "company": "SkyShield Security",
+    "location": "San Francisco, CA",
+    "description": "Help secure cloud environments (AWS, Azure, GCP) by assisting with security configuration reviews, vulnerability assessments, and implementing cloud security best practices.",
+    "requirements": "Familiarity with cloud computing concepts, basic understanding of cloud security principles, and experience with at least one cloud platform. Enrollment in a relevant technical degree program."
+  },
+  {
+    "title": "Security Engineering Intern",
+    "company": "Fortress Tech",
+    "location": "Boston, MA",
+    "description": "Work with security engineers to design, build, and maintain security infrastructure. Assist with evaluating new security technologies and improving existing systems.",
+    "requirements": "Strong foundation in computer science fundamentals, experience with scripting (Python), and an interest in system security and architecture. Pursuing a degree in Computer Science or Electrical Engineering."
+  },
+  {
+    "title": "Vulnerability Management Intern",
+    "company": "DefendAll",
+    "location": "Remote",
+    "description": "Support the vulnerability management program by assisting with scanning, assessment, and reporting of security vulnerabilities across various systems and applications.",
+    "requirements": "Knowledge of vulnerability scanning tools, understanding of common vulnerabilities and exposures (CVEs), and basic network knowledge. Currently pursuing a degree in Cybersecurity or IT."
+  },
+  {
+    "title": "Cryptographic Solutions Intern",
+    "company": "Enigma Labs",
+    "location": "London, UK",
+    "description": "Assist in researching, developing, and testing cryptographic algorithms and protocols. Learn about secure communication methods and data encryption techniques.",
+    "requirements": "Strong mathematical background, understanding of cryptographic principles, and programming experience (e.g., C++, Python). Pursuing a degree in Mathematics, Computer Science, or Cryptography."
+  },
+  {
+    "title": "IoT Security Intern",
+    "company": "ConnectSecure",
+    "location": "Austin, TX",
+    "description": "Explore the security challenges of Internet of Things (IoT) devices. Assist in security assessments, firmware analysis, and developing secure IoT solutions.",
+    "requirements": "Familiarity with embedded systems, basic hardware knowledge, and programming skills (e.g., C, Python). Interest in IoT technology. Enrollment in a relevant technical degree program."
+  },
+  {
+    "title": "Project Management Intern",
+    "company": "Innovate Solutions Inc.",
+    "location": "New York, NY",
+    "description": "Assist project managers in planning, executing, and closing projects. Responsibilities include tracking project progress, maintaining documentation, and coordinating team meetings.",
+    "requirements": "Currently pursuing a Bachelor's or Master's degree in Business, Management, or a related field. Strong organizational and communication skills. Proficiency in Microsoft Office Suite."
+  },
+  {
+    "title": "Operations Management Intern",
+    "company": "Global Logistics Corp.",
+    "location": "Chicago, IL",
+    "description": "Support the operations team in optimizing supply chain processes, analyzing operational data, and implementing efficiency improvements. Gain exposure to inventory management and logistics.",
+    "requirements": "Enrollment in a Bachelor's program in Operations Management, Supply Chain, or Industrial Engineering. Analytical mindset and problem-solving abilities."
+  },
+  {
+    "title": "Business Development Intern",
+    "company": "Tech Growth Partners",
+    "location": "San Francisco, CA",
+    "description": "Research potential market opportunities, assist in developing client proposals, and support the sales team in lead generation and client outreach efforts.",
+    "requirements": "Pursuing a degree in Business Administration, Marketing, or Economics. Excellent research and presentation skills. Interest in technology and B2B sales."
+  },
+  {
+    "title": "Human Resources Management Intern",
+    "company": "PeopleFirst HR",
+    "location": "Boston, MA",
+    "description": "Assist the HR department with recruitment, onboarding, employee relations, and HR policy development. Learn about various aspects of human capital management.",
+    "requirements": "Currently enrolled in an HR, Business, or Psychology program. Strong interpersonal and communication skills. Confidentiality and attention to detail are crucial."
+  },
+  {
+    "title": "Marketing Management Intern",
+    "company": "Brand Builders Agency",
+    "location": "Los Angeles, CA",
+    "description": "Support marketing managers in campaign development, market research, social media strategy, and content creation. Analyze marketing performance metrics.",
+    "requirements": "Working towards a degree in Marketing, Communications, or Business. Creative thinking and familiarity with digital marketing tools are a plus."
+  },
+  {
+    "title": "Financial Management Intern",
+    "company": "Wealth Management Group",
+    "location": "Dallas, TX",
+    "description": "Assist financial advisors with portfolio analysis, client reporting, and market research. Gain insights into investment strategies and financial planning.",
+    "requirements": "Enrollment in a Finance, Economics, or Accounting program. Strong analytical skills and proficiency in Excel. Interest in financial markets."
+  },
+  {
+    "title": "Retail Management Intern",
+    "company": "Trendy Retail Stores",
+    "location": "Miami, FL",
+    "description": "Learn about store operations, inventory management, customer service, and team leadership in a fast-paced retail environment. Assist store managers with daily tasks.",
+    "requirements": "Currently pursuing a degree in Business, Retail Management, or a related field. Strong customer service orientation and ability to work in a dynamic setting."
   },
   {
     "title": "Product Management Intern",
-    "company": "Innovate Solutions",
+    "company": "NextGen Software",
     "location": "Seattle, WA",
-    "description": "The Product Management Intern will support the product team in various stages of the product lifecycle. You'll conduct market research, analyze user feedback, help with creating product documentation, and assist in prioritizing features. This role is a fantastic opportunity to learn about the intersection of business, technology, and user experience.",
-    "requirements": "Currently enrolled in a Bachelor's or Master's degree in Business, Computer Science, or a related field. Strong interest in product management and product development. Excellent research, analytical, and communication skills. Ability to work in a fast-paced, collaborative environment. Familiarity with agile methodologies is a plus."
+    "description": "Collaborate with product managers on market analysis, feature prioritization, and product roadmap development. Assist in user testing and feedback collection.",
+    "requirements": "Pursuing a degree in Business, Computer Science, or a related technical field. Strong analytical and communication skills. Interest in software development."
   },
   {
-    "title": "UX/UI Design Intern",
-    "company": "Creative Minds Studio",
-    "location": "Austin, TX",
-    "description": "As a UX/UI Design Intern, you will assist in creating intuitive and visually appealing user interfaces. You'll participate in user research, create wireframes and prototypes, and contribute to usability testing. This role offers a chance to apply user-centered design principles and help shape the user experience of our digital products.",
-    "requirements": "Currently pursuing a degree in Graphic Design, HCI, or a related field. Knowledge of UX/UI design principles and methodologies. Proficiency with design and prototyping tools (e.g., Figma, Sketch, Adobe XD). A strong portfolio showcasing your design projects. Attention to detail and a passion for creating great user experiences."
-  },
-  {
-    "title": "Machine Learning Engineer Intern",
-    "company": "AI Dynamics",
-    "location": "Boston, MA",
-    "description": "You'll work with our engineering team to develop, test, and optimize machine learning models. Your tasks will include data preprocessing, feature engineering, and model evaluation. This role is perfect for a student eager to gain practical experience with AI frameworks and contribute to the deployment of AI-powered solutions.",
-    "requirements": "Currently enrolled in a Master's or PhD program in Computer Science, Machine Learning, or a related field. Experience with machine learning frameworks such as TensorFlow or PyTorch. Proficiency in Python and relevant libraries (e.g., scikit-learn, NumPy, Pandas). Strong understanding of machine learning algorithms and deep learning concepts. Solid foundation in mathematics, including linear algebra and statistics."
-  },
-  {
-    "title": "Cybersecurity Intern",
-    "company": "SecureSphere",
+    "title": "Non-Profit Management Intern",
+    "company": "Community Outreach Foundation",
     "location": "Washington, D.C.",
-    "description": "The Cybersecurity Intern will assist our security team in monitoring and analyzing threats, conducting vulnerability assessments, and responding to incidents. You'll gain hands-on experience with security tools and help implement security solutions to protect our systems and data.",
-    "requirements": "Currently pursuing a degree in Cybersecurity, Information Technology, or a related field. Basic understanding of network protocols, operating systems, and security concepts. Familiarity with common security tools (e.g., SIEM, vulnerability scanners). Knowledge of at least one scripting language (e.g., Python, Bash). Strong analytical and problem-solving skills."
+    "description": "Support the executive team in program coordination, grant writing, fundraising initiatives, and volunteer management for various community projects.",
+    "requirements": "Enrollment in a Non-Profit Management, Public Administration, or Social Sciences program. Passion for social impact and strong organizational abilities."
   },
   {
-    "title": "Cloud Computing Intern",
-    "company": "CloudScape Technologies",
-    "location": "Redmond, WA",
-    "description": "As a Cloud Computing Intern, you will work on projects involving cloud infrastructure, virtualization, and automation. You will assist in deploying and managing applications on platforms like AWS, Azure, or Google Cloud, and contribute to improving system reliability and scalability.",
-    "requirements": "Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related technical field. Basic knowledge of cloud computing concepts and services (e.g., EC2, S3, Azure VMs). Familiarity with Linux operating systems and command-line tools. Experience with scripting languages like Python or Bash. Eagerness to learn and work with cloud technologies."
+    "title": "Event Management Intern",
+    "company": "Elite Events Planners",
+    "location": "Orlando, FL",
+    "description": "Assist with the planning and execution of corporate events, conferences, and special occasions. Responsibilities include vendor coordination, logistics, and on-site support.",
+    "requirements": "Currently studying Event Management, Hospitality, or Marketing. Excellent organizational skills, attention to detail, and ability to work under pressure."
   },
   {
-    "title": "DevOps Intern",
-    "company": "Global Systems",
+    "title": "DevOps Engineering Intern",
+    "company": "TechSolutions Inc.",
+    "location": "San Francisco, CA",
+    "description": "Join our DevOps team to help build and maintain robust CI/CD pipelines. You'll work on automating deployments, managing cloud infrastructure, and improving system reliability and scalability. This role offers hands-on experience with cutting-edge deployment tools and cloud platforms.",
+    "requirements": "Basic understanding of Linux, scripting (Python/Bash), and cloud concepts (AWS/Azure/GCP). Familiarity with Git and containerization (Docker) is a plus. Pursuing a degree in Computer Science or a related field."
+  },
+  {
+    "title": "Site Reliability Engineering (SRE) Intern",
+    "company": "GlobalScale Technologies",
+    "location": "Seattle, WA",
+    "description": "As an SRE Intern, you'll contribute to ensuring the availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning of our services. You will work alongside experienced SREs to deploy and maintain critical systems.",
+    "requirements": "Proficiency in at least one programming language (Python, Go, Java), knowledge of data structures and algorithms. Experience with Unix/Linux systems. Interest in distributed systems and cloud infrastructure. Currently enrolled in a technical degree program."
+  },
+  {
+    "title": "Cloud Infrastructure Intern",
+    "company": "CloudForge Innovations",
+    "location": "Austin, TX",
+    "description": "Gain practical experience in cloud infrastructure management and deployment. You will assist in provisioning, configuring, and monitoring cloud resources (e.g., EC2, Kubernetes, Lambda) on AWS. This role involves working with Infrastructure as Code (IaC) tools.",
+    "requirements": "Exposure to cloud platforms (AWS preferred), understanding of networking fundamentals, and some scripting ability. Experience with Terraform or CloudFormation is a bonus. Enrolled in a CS, CE, or related engineering program."
+  },
+  {
+    "title": "CI/CD Pipeline Intern",
+    "company": "AgileFlow Software",
+    "location": "Boston, MA",
+    "description": "Work with our engineering teams to design, implement, and optimize continuous integration and continuous deployment pipelines. You'll help streamline our release processes and integrate various testing and deployment tools.",
+    "requirements": "Familiarity with CI/CD concepts and tools (e.g., Jenkins, GitLab CI, GitHub Actions). Knowledge of version control systems (Git) and command-line interfaces. Basic programming skills. Strong problem-solving abilities."
+  },
+  {
+    "title": "Release Engineering Intern",
+    "company": "SecureDeploy Solutions",
+    "location": "Denver, CO",
+    "description": "This internship focuses on the end-to-end release process, from code commit to production deployment. You will assist in managing release branches, performing build validation, and automating release notes. Emphasis on ensuring secure and reliable software deliveries.",
+    "requirements": "Understanding of software development lifecycles. Experience with build tools (e.g., Maven, Gradle, npm) and package managers. Attention to detail and good organizational skills. Currently pursuing a bachelor's or master's degree."
+  },
+  {
+    "title": "Automation Engineer Intern (Deployment)",
+    "company": "AutoPilot Systems",
+    "location": "Atlanta, GA",
+    "description": "Contribute to developing and maintaining automation scripts and tools that facilitate efficient and error-free software deployments. You will help identify manual processes and transform them into automated solutions, improving our operational efficiency.",
+    "requirements": "Strong scripting skills (Python preferred). Experience with configuration management tools (Ansible, Chef, Puppet) is a plus. Knowledge of system administration concepts. Enrolled in an engineering, computer science, or IT-related field."
+  },
+  {
+    "title": "Container Orchestration Intern",
+    "company": "KubeVerse Labs",
     "location": "San Jose, CA",
-    "description": "The DevOps Intern will help automate our software development and IT operations processes. You'll assist in managing CI/CD pipelines, container orchestration, and infrastructure as code. This internship is an excellent opportunity to bridge the gap between development and operations and gain experience with cutting-edge tools.",
-    "requirements": "Currently pursuing a degree in Computer Science or a related field. Familiarity with version control systems like Git. Basic understanding of CI/CD concepts and tools (e.g., Jenkins, GitHub Actions). Knowledge of containerization technologies (e.g., Docker, Kubernetes). Experience with scripting languages and a desire to automate workflows."
+    "description": "Dive into the world of containerization and orchestration! You'll work on deploying, managing, and scaling applications using Docker and Kubernetes. This role involves writing manifest files, debugging deployments, and monitoring containerized services.",
+    "requirements": "Understanding of Docker concepts. Basic familiarity with Kubernetes or similar orchestration platforms. Linux command-line proficiency. Pursuing a degree in Computer Science or a related technical discipline."
   },
   {
-    "title": "Data Analyst Intern",
-    "company": "Metrics Inc.",
+    "title": "Infrastructure Reliability Intern",
+    "company": "Resilient Systems Group",
     "location": "Chicago, IL",
-    "description": "You'll be part of a team that uses data to uncover business insights. Your responsibilities will include data cleaning and preparation, exploratory data analysis, and the creation of dashboards and reports. This role will help you develop your skills in data visualization and communicating findings to stakeholders.",
-    "requirements": "Currently enrolled in a Bachelor's or Master's degree in a quantitative field. Proficiency with spreadsheet software (e.g., Microsoft Excel, Google Sheets). Basic knowledge of SQL for data querying. Experience with data visualization tools (e.g., Tableau, Power BI) is a plus. Strong analytical thinking and attention to detail."
+    "description": "Focus on improving the reliability and performance of our core infrastructure. You will assist in implementing monitoring solutions, analyzing system metrics, and participating in incident response drills to ensure high availability of services.",
+    "requirements": "Exposure to monitoring tools (e.g., Prometheus, Grafana, ELK stack). Basic understanding of operating systems, networking, and distributed systems. Strong analytical skills. Enrollment in a relevant technical degree program."
   },
   {
-    "title": "AI Research Intern",
-    "company": "Quantum AI Labs",
-    "location": "Palo Alto, CA",
-    "description": "Join our research team to explore and develop novel AI algorithms and models. You'll work on projects that push the boundaries of machine learning, deep learning, and natural language processing. This is a highly technical role for students passionate about contributing to pioneering research.",
-    "requirements": "Currently enrolled in a PhD or Master's program in Computer Science, Applied Mathematics, or a related field. Demonstrated research experience through publications or projects. Strong programming skills in Python and experience with AI/ML frameworks (e.g., PyTorch, JAX). Deep understanding of machine learning theory and algorithms. Ability to work independently and drive research projects forward."
+    "title": "Application Deployment Specialist Intern",
+    "company": "AppLaunch Solutions",
+    "location": "New York, NY",
+    "description": "Support the deployment of various applications across different environments (development, staging, production). You will work closely with development and QA teams to ensure smooth and timely releases, troubleshoot deployment issues, and document procedures.",
+    "requirements": "Basic understanding of application servers (e.g., Nginx, Apache, Tomcat) and databases. Familiarity with Linux command line. Good communication and collaboration skills. Ideal for students interested in a technical operations role."
+  },
+  {
+    "title": "Software Delivery Automation Intern",
+    "company": "Velocity Tech",
+    "location": "Toronto, ON",
+    "description": "Contribute to the automation of our entire software delivery lifecycle. This includes automating build, test, and deployment processes, and exploring new tools and technologies to enhance our delivery speed and quality. You'll gain exposure to a modern software engineering environment.",
+    "requirements": "Proficiency in scripting languages (e.g., Python, Ruby, Groovy). Experience with source control (Git). Understanding of continuous delivery principles. Ability to learn new tools quickly. Currently enrolled in a relevant university program."
   }
 ]

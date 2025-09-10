@@ -8,6 +8,14 @@ class Resume(BaseModel):
     experience: str
     certifications: str
 
+class RecommendedInternship(BaseModel):
+    title: str
+    company: str
+    location: str
+    description: str
+    requirements: str
+    score: float
+
 class Internship(BaseModel):
     title: str
     company: str
